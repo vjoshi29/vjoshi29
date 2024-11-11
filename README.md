@@ -7,9 +7,12 @@ Below you'll find details about technologies I've worked with.
 
 Front-End:
 HTML5, CSS3, JavaScript, React.js, TailwindCSS and Bootstrap
+
 Back-End:
 Node.js, Express.js , JWT Authentication and Python
+
 Databases:
 MongoDB, MySQL
+
 Version Control:
 Git and GitHub
